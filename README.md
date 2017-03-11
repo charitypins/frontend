@@ -1,4 +1,4 @@
 charitypins frontend
 =====================
 
-frontend for http://www.whiskeybits.com/charitypins
+frontend for http://charitypins.github.io
