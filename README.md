@@ -1,4 +1,4 @@
 charitypins frontend
-=====================
+====================
 
-frontend for http://charitypins.github.io
+One repository which will contain any front-ends for <a href="http://charitypins.github.io">charitpins</a>
